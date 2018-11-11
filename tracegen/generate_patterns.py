@@ -18,7 +18,7 @@ img_numpages   = 3
 #SSD Related parameters:
 
 #32 channels, 8 dies, 2 planes, 4K blocks, 256 pages per block and each page size is 4096
-#32×8×2×4096×256×4096/(1024×1024×1024)
+#32*8*2*4096*256*4096/(1024*1024*1024)
 # this gives 2TB
 
 page_read_time = 16 #in us
